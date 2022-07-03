@@ -13,7 +13,7 @@ Along with top locations and peak hours, here using the start time, further anal
 
 ## Results
 
-Link to all the analyis is here:
+Link to all the analysis is here:
 [link to dashboard](https://public.tableau.com/app/profile/sanil.veeravu/viz/NYCBikeChallengeFinal/NYCBikeAnalysis#1)
 
 Below are the key findings based on the research from New York City Bike Sharing data.
